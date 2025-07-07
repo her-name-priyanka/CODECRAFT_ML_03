@@ -1,0 +1,2 @@
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data).  
+After downloading, place the `train.csv` file inside the `data/` folder.
